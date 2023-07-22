@@ -13,3 +13,10 @@
 
 `npm run start` — запускает сервер   
 `npm run dev` — запускает сервер с hot-reload
+## Ссылки на проект
+
+IP <62.84.117.83>
+
+Frontend 
+
+Backend 
