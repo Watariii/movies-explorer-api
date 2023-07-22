@@ -15,7 +15,14 @@ const validPostLogin = {
   }),
 };
 
+const validPatchUpdateUser = {
+  body: Joi.object().keys({
+    name: Joi.string().min(2).max(30).required(),
+  }),
+};
+
 module.exports = {
   validPostCreateUser,
   validPostLogin,
+  validPatchUpdateUser,
 };

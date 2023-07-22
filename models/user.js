@@ -1,13 +1,10 @@
-/* eslint-disable no-underscore-dangle */
 const { Schema, model } = require('mongoose');
-const { regexEmail } = require('../utils/constants');
 
 const userSchema = new Schema({
   email: {
     type: String,
     require: true,
     unique: true,
-    match: regexEmail,
   },
 
   password: {
