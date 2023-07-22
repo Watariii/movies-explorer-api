@@ -17,6 +17,6 @@
 
 IP <62.84.117.83>
 
-Frontend 
+Frontend https://watari.nomoredomains.xyz
 
-Backend 
+Backend https://api.watari.nomoredomains.xyz
