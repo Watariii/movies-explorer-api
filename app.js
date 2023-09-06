@@ -7,7 +7,7 @@ const cookieParser = require('cookie-parser');
 const helmet = require('helmet');
 
 const { PORT, DB_URL } = require('./config');
-
+const cors = require('./middlevares/cors');
 const routes = require('./routes/index');
 const { requestLogger, errorLogger } = require('./middlevares/logger');
 const errorHandler = require('./middlevares/error');
@@ -28,6 +28,8 @@ app.use(helmet());
 app.use(express.json());
 app.use(express.urlencoded({ extended: true }));
 app.use(cookieParser());
+
+app.use(cors);
 
 app.use(routes);
 app.use((req, res, next) => {
