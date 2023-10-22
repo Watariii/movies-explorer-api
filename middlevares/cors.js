@@ -1,8 +1,8 @@
 const allowedCorsOrigin = [
-  'https://api.watari.nomoredomains.xyz',
-  'http://api.watari.nomoredomains.xyz',
-  'https://watari.nomoredomains.xyz',
-  'http://watari.nomoredomains.xyz',
+  'https://api.movies-explorer.sukhov-nikita.ru',
+  'http://api.movies-explorer.sukhov-nikita.ru',
+  'https://movies-explorer.sukhov-nikita.ru',
+  'http://movies-explorer.sukhov-nikita.ru',
   'http://localhost:3001',
   'http://localhost:3000',
 ];
