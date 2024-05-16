@@ -1,5 +1,6 @@
 # Проект movies-explorer-api (бэкенд)
 Ссылка на репозиторий  - https://github.com/Watariii/movies-explorer-api.git
+Ссылка на репозиторий Frontend - https://github.com/Watariii/movies-explorer-frontend.git
 
 ## Директории
 
@@ -15,8 +16,6 @@
 `npm run dev` — запускает сервер с hot-reload
 ## Ссылки на проект
 
-IP <62.84.117.83>
+[Frontend](https://movies-explorer.sukhov-nikita.ru/)
 
-Frontend https://watari.nomoredomains.xyz
-
-Backend https://api.watari.nomoredomains.xyz
+[Backend](https://api.movies-explorer.sukhov-nikita.ru/)
