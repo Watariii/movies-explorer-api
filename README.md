@@ -1,5 +1,5 @@
 # Проект movies-explorer-api (бэкенд)
-Ссылка на репозиторий  - https://github.com/Watariii/movies-explorer-api.git
+Ссылка на репозиторий Backend  - https://github.com/Watariii/movies-explorer-api.git
 
 Ссылка на репозиторий Frontend - https://github.com/Watariii/movies-explorer-frontend.git
 
