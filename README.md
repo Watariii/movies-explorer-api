@@ -1,4 +1,6 @@
 # Проект movies-explorer-api (бэкенд)
+
+
 Ссылка на репозиторий Backend  - https://github.com/Watariii/movies-explorer-api.git
 
 Ссылка на репозиторий Frontend - https://github.com/Watariii/movies-explorer-frontend.git
@@ -31,7 +33,8 @@ Backend: express.js, REST.API, mongoDB и т.д.
 
 `npm run start` — запускает сервер   
 `npm run dev` — запускает сервер с hot-reload
-## Ссылки на проект
+
+## Рабочая ссылка на демонстрацию проекта
 
 [Frontend](https://movies-explorer.sukhov-nikita.ru/)
 
