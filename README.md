@@ -31,7 +31,8 @@ Backend: express.js, REST.API, mongoDB и т.д.
   
 ## Запуск проекта
 
-`npm run start` — запускает сервер 
+`npm run start` — запускает сервер
+
 `npm run dev` — запускает сервер с hot-reload
 
 ## Рабочая ссылка на демонстрацию проекта
